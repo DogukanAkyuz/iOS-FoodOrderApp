@@ -6,6 +6,7 @@ Features
 * Add products to the cart.
 
 Screenshots
+
 ![Homepage](https://github.com/user-attachments/assets/ce64dc72-5716-4fbb-a49c-9eea1e9f61d3)
 ![Detail](https://github.com/user-attachments/assets/6e713953-25e1-4d4c-9a52-0cb7ce69e65e)
 
